@@ -17,9 +17,27 @@
 
 .description {
     margin-top: 15px;
+    width: 700px;
 }
 
 .description p {
     color: rgb(198, 197, 197);
     margin-top: 20px;
+}
+
+.container a {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+a button {
+    padding: 6px;
+    border-radius: 16px;
+    border: grey solid 2px;
+}
+
+a button:hover {
+    padding: 10px;
+    border-radius: 25px;
+    cursor: pointer;
 }

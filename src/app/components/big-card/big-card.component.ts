@@ -10,9 +10,9 @@ export class BigCardComponent implements OnInit {
   @Input()
   photoCover: string = ""
   @Input()
-  cardTitle: string = "Squal Leonhart"
+  cardTitle: string = ""
   @Input()
-  cardDescription: string = "Squal foi visto usando sua ultimate Leonhart"
+  cardDescription: string = ""
   @Input()
   Id: string = '0'
 

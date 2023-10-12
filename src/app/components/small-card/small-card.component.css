@@ -6,6 +6,7 @@
 .photo img {
     width: 200px;
     min-width: 200px;
+    max-height: 100px;
     margin-right: 20px;
 }
 
